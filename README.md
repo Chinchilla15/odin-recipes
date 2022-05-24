@@ -1,1 +1,4 @@
 # odin-recipes
+This is the first project from "The Odin Project", for the foundations-HTML part. For this project I will build a basic website using just html, I will use the following elements and tags: links, lists, headings, paragraphs, strong, em, and images. At the moment, those are the only elements seen on the odin project. The website I will create is a recipe website using the elements mentioned before. My goal for this project is to use all the knowledge adquired so far and practice my skills. Hope it looks good! 05/24/2022
+
+(Space for when I come back in the future to check on my very first self-taught project)
